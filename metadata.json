@@ -1,0 +1,5 @@
+{
+  "name": "DevOps OmniTool",
+  "description": "A comprehensive suite of DevOps utilities powered by Gemini AI. Generate Dockerfiles, Kubernetes manifests, convert Cron expressions, and visualize resource usage.",
+  "requestFramePermissions": []
+}
